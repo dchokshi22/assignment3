@@ -1,7 +1,13 @@
 #:schema node_modules/wrangler/config-schema.json
+<<<<<<< HEAD
 name = "hello-worker-2024"
 main = "src/index.js"
 compatibility_date = "2024-04-19"
+=======
+name = "assignment2"
+main = "src/index.js"
+compatibility_date = "2024-05-02"
+>>>>>>> abe0613 (assignment 2)
 compatibility_flags = ["nodejs_compat"]
 
 # Automatically place your workloads in an optimal location to minimize latency.

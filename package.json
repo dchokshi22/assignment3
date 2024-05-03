@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "throbbing-lab-3fb1",
+=======
+  "name": "assignment2",
+>>>>>>> abe0613 (assignment 2)
   "version": "0.0.0",
   "private": true,
   "scripts": {
